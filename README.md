@@ -14,7 +14,7 @@ This repository is created to help those who may need design guidelines for each
 6. [Test Swabs](#Test-Swabs)
 7. [Gloves](#Gloves)
 
-< a name="Face-Masks"> </a>
+%< a name="Face-Masks"> </a>
 ## Face Masks
 
 < a name="Ventilators"> </a>
