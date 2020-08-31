@@ -27,6 +27,8 @@ This repository is created to help those who may need design guidelines for each
 ## Face Masks
 1. [Face Shield by Collective Shield](https://www.washingtonian.com/2020/03/22/crisis-heroes-meet-the-virginia-couple-3d-printing-mask-shields-for-medical-workers/)
   *   [contact via Facebook page](https://www.facebook.com/collectiveshield/)
+2. [DIY Face Masks by CannonDesign](https://www.bdcnetwork.com/covid19diymaskcoalition)
+
 
 [Back to Top](#Primary-PPE-Designs)
 ## Ventilators
