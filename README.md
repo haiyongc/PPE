@@ -14,23 +14,23 @@ This repository is created to help those who may need design guidelines for each
 6. [Test Swabs](#Test-Swabs)
 7. [Gloves](#Gloves)
 
-%< a name="Face-Masks"> </a>
+
 ## Face Masks
 
-< a name="Ventilators"> </a>
+
 ## Ventilators
 
-< a name="Isolation-Gowns"> </a>
+
 ## Isolation Gowns
 
-< a name="Visors"> </a>
+
 ## Visors/Face Shields
 
-< a name="Goggles"> </a>
+
 ## Goggles
 
-< a name="Test-Swabs"> </a>
+
 ## Test Swabs
 
-< a name="Gloves"> </a>
+
 ## Gloves
