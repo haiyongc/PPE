@@ -25,7 +25,7 @@ This repository is created to help those who may need design guidelines for each
 
 
 ## Face Masks
-1. Face Shield(https://www.washingtonian.com/2020/03/22/crisis-heroes-meet-the-virginia-couple-3d-printing-mask-shields-for-medical-workers/)
+1. [Face Shield](https://www.washingtonian.com/2020/03/22/crisis-heroes-meet-the-virginia-couple-3d-printing-mask-shields-for-medical-workers/)
 
 [Back to Top](#Primary-PPE-Designs)
 ## Ventilators
