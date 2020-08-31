@@ -50,16 +50,16 @@ This repository is created to help those who may need design guidelines for each
 
 ## Oxygen Valve
 
-[Back to Top](#Primary-PPE-Designs)
+[Back to Top](#Secondary-PPE-Designs)
 ## Lung Training Model
 
-[Back to Top](#Primary-PPE-Designs)
+[Back to Top](#Secondary-PPE-Designs)
 ## Door Handle Attachment
 
-[Back to Top](#Primary-PPE-Designs)
+[Back to Top](#Secondary-PPE-Designs)
 ## Hand Sanitizer Holder
 
-[Back to Top](#Primary-PPE-Designs)
+[Back to Top](#Secondary-PPE-Designs)
 ## Disinfection Booths
 
-[Back to Top](#Primary-PPE-Designs)
+[Back to Top](#Secondary-PPE-Designs)
