@@ -19,6 +19,8 @@ This repository is created to help those who may need design guidelines for each
 1. [Oxygen Valve](#Oxygen-Valve)
 2. [Lung Training Model](#Lung-Training-Model)
 3. [Door Handle Attachment](#Door-Handle-Attachment)
+4. [Hand Sanitizer Holder](#Hand-Sanitizer-Holder)
+5. [Disinfection Booths](#Disinfection-Booths)
 
 
 
@@ -52,4 +54,11 @@ This repository is created to help those who may need design guidelines for each
 
 
 ## Door Handle Attachment
+
+
+## Hand Sanitizer Holder
+
+
+## Disinfection Booths
+
 
