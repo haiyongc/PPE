@@ -14,6 +14,13 @@ This repository is created to help those who may need design guidelines for each
 6. [Test Swabs](#Test-Swabs)
 7. [Gloves](#Gloves)
 
+# Secondary PPE Designs
+
+1. [Oxygen Valve](#Oxygen-Valve)
+2. [Lung Training Model](#Lung-Training-Model)
+3. [Door Handle Attachment](#Door-Handle-Attachment)
+
+
 
 ## Face Masks
 
@@ -34,3 +41,14 @@ This repository is created to help those who may need design guidelines for each
 
 
 ## Gloves
+
+
+
+## Oxygen Valve
+
+
+## Lung Training Model
+
+
+## Door Handle Attachment
+
